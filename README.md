@@ -33,3 +33,5 @@ Màn hình OLED sử dụng trong dự án này là loại Dual-color (1/4 Vàng
 
 ---
 *Dự án được thực hiện để làm quen với lập trình nhúng C++ trên ESP32 và giao thức I2C.*
+
+1st time update
